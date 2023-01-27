@@ -1,0 +1,21 @@
+{
+  "name": "everythingmonokai",
+  "displayName": "EverythingMonokai",
+  "description": "cools themes + monokai st3 syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EverythingMonokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EverythingMonokai-color-theme.json"
+      }
+    ]
+  }
+}
