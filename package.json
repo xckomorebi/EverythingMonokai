@@ -1,7 +1,9 @@
 {
   "name": "everythingmonokai",
-  "displayName": "EverythingMonokai",
+  "displayName": "Everything Monokai",
   "description": "cools themes + monokai st3 syntax highlighting",
+  "author": "xckomorebi",
+  "publisher": "xckomorebi",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -9,12 +11,13 @@
   "categories": [
     "Themes"
   ],
+  "icon": "resources/logo.png",
   "contributes": {
     "themes": [
       {
-        "label": "EverythingMonokai",
+        "label": "Material Darker + Monokai ST3",
         "uiTheme": "vs-dark",
-        "path": "./themes/EverythingMonokai-color-theme.json"
+        "path": "./themes/MaterialDarker-MonokaiST3.json"
       }
     ]
   }
