@@ -9,7 +9,7 @@
   },
   "author": "xckomorebi",
   "publisher": "xckomorebi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -29,6 +29,11 @@
         "label": "Material Darker + Monokai ST3",
         "uiTheme": "vs-dark",
         "path": "./themes/MaterialDarker-MonokaiST3.json"
+      },
+      {
+        "label": "Material Darker + Monokai Faded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MaterialDarker-MonokaiFaded.json"
       }
     ]
   }
