@@ -1,7 +1,12 @@
 {
   "name": "everythingmonokai",
   "displayName": "Everything Monokai",
-  "description": "cools themes + monokai st3 syntax highlighting",
+  "description": "cool themes + monokai st3 syntax highlighting",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xckomorebi/EverythingMonokai.git"
+  },
   "author": "xckomorebi",
   "publisher": "xckomorebi",
   "version": "0.0.1",
@@ -10,6 +15,12 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "material",
+    "sublime",
+    "theme"
   ],
   "icon": "resources/logo.png",
   "contributes": {

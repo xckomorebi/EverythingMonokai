@@ -4,6 +4,7 @@ All notable changes to the "everythingmonokai" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
-- Initial release
+## 0.0.1 - 2023.01.27
+### Added
+* Initial release
+* Material theme

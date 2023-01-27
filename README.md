@@ -1,16 +1,17 @@
-# everythingmonokai README
+# Everything Monokai
 
-## Working with Markdown
+Combination of [Monokai ST3](https://github.com/volosovich/Monokai-ST3-theme-for-vscode) syntax highlighting, and other themes (like Material).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Material Darker + Monokai
+![](resources/MaterialDarker%2BMonokai.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+[Material Theme](https://github.com/material-theme/vsc-community-material-theme)
 
-## For more information
+## Terminal Color Customization
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Alt text](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Peppermint.png)
+[Peppermint](https://iterm2colorschemes.com)
+
+## More themes are going to be added (hopefully...)**
 
 **Enjoy!**
