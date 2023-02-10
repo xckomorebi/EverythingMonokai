@@ -4,7 +4,9 @@ All notable changes to the "everythingmonokai" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-
+## 0.1.1 - 2023.02.10
+### Changed
+* Changed color for function variables
 ## 0.1.0 - 2023.01.27
 ### Added
 * Material Theme Darker + Monokai Faded
